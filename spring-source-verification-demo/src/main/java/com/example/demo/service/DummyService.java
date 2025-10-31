@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class DummyService {
 
     public void checkNull() {
-        String str = "";
+        String str = "Minion";
         System.out.println(str.length());
     }
 }
